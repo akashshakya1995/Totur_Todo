@@ -1,0 +1,16 @@
+{
+  "name": "todo-list",
+  "version": "1.0.0",
+  "description": "CRUD operation implementation to make simple ToDoList <h3> Tech Stack : HTML | PUG | Express JS | Node JS | MongoDB </h3></br> <h5>Features includes : </h5>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "akash",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.5.4",
+    "pug": "^3.0.2"
+  }
+}
